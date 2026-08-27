@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "3b84c24dc074142045787b575f72e45618027ea0",
     "author": "Your Name",
     "commit": {
       "date": "2026-08-27T13:13:45.000Z",
       "message": "first commit proyecto base",
-      "url": "/commit/HEAD"
+      "url": "/commit/3b84c24dc074142045787b575f72e45618027ea0"
     },
     "stats": {
       "total": 29963,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2026-08-27T13:39:00.000Z",
+      "message": "feat:creacion de la primera prueba para fizzbuzz",
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

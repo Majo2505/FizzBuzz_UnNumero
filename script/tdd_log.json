@@ -1,8 +1,38 @@
 [
   {
-    "commitId": "HEAD",
+    "commitId": "3b84c24dc074142045787b575f72e45618027ea0",
     "commitName": "first commit proyecto base",
     "commitTimestamp": 1787836426779,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787837801414,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 4,
+    "numTotalTests": 5,
+    "timestamp": 1787837850128,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1787837910276,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:creacion de la primera prueba para fizzbuzz",
+    "commitTimestamp": 1787837942093,
+    "testId": 1
   }
 ]
