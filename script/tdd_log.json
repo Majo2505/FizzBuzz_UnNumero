@@ -102,9 +102,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "03ee51b377295b8619c1b2a6de324e83323cfd48",
     "commitName": "feat:creacion de una nueva prueba",
     "commitTimestamp": 1787838518649,
     "testId": 5
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 3,
+    "numTotalTests": 4,
+    "timestamp": 1787838581679,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838598348,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: mejora de codigo para pasar la nueva prueba",
+    "commitTimestamp": 1787838669205,
+    "testId": 6
   }
 ]
