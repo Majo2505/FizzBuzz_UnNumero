@@ -1,5 +1,5 @@
 function fizzBuzz(num)
 {
-    return "2";
+    return num.toString();
 }
 export default fizzBuzz;

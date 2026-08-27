@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6bafffaf6edf98f4670104e8d0fb9821643bf18b",
     "author": "Your Name",
     "commit": {
       "date": "2026-08-27T13:44:26.000Z",
       "message": "feat: creacion de una nueva prueba",
-      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/6bafffaf6edf98f4670104e8d0fb9821643bf18b"
     },
     "stats": {
       "total": 3,
@@ -74,5 +74,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2026-08-27T13:46:48.000Z",
+      "message": "feat: mejora de codigo para pasar todas las pruebas presentes",
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
