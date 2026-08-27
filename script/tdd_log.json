@@ -176,9 +176,15 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e8e785ce83c01817bf7cb5457971d30e35ab5437",
     "commitName": "feat: prueba y codigo para la regla de FIZZBUZZ (multiplo de 3 y 5)",
     "commitTimestamp": 1787839069884,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: modificaciones en presenter e index para la parte visual",
+    "commitTimestamp": 1787839692347,
+    "testId": 9
   }
 ]
