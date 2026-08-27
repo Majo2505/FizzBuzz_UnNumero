@@ -88,9 +88,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "00db498e66a8dfe5853c3a04ac4b03ddd4bfe5e1",
     "commitName": "feat: mejora de codigo para pasar todas las pruebas presentes",
     "commitTimestamp": 1787838409824,
     "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1787838455967,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:creacion de una nueva prueba",
+    "commitTimestamp": 1787838518649,
+    "testId": 5
   }
 ]
