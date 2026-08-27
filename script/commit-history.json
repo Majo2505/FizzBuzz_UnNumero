@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dc8c1f387954e108be5149c0faca970a3236d550",
     "author": "Your Name",
     "commit": {
       "date": "2026-08-27T13:54:33.000Z",
       "message": "feat: añañadir codigo para pasar la nueva prueba",
-      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/dc8c1f387954e108be5149c0faca970a3236d550"
     },
     "stats": {
       "total": 4,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2026-08-27T13:57:48.000Z",
+      "message": "feat: prueba y codigo para la regla de FIZZBUZZ (multiplo de 3 y 5)",
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 87.5,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

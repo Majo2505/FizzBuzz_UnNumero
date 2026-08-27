@@ -138,9 +138,47 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "dc8c1f387954e108be5149c0faca970a3236d550",
     "commitName": "feat: añañadir codigo para pasar la nueva prueba",
     "commitTimestamp": 1787838874720,
     "testId": 7
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 2,
+    "numTotalTests": 6,
+    "timestamp": 1787838945141,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 5,
+    "numTotalTests": 6,
+    "timestamp": 1787838965213,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838984404,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838995509,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: prueba y codigo para la regla de FIZZBUZZ (multiplo de 3 y 5)",
+    "commitTimestamp": 1787839069884,
+    "testId": 8
   }
 ]
