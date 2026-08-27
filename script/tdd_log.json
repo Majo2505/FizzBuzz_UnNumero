@@ -60,9 +60,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7019f798621fc8db103102cf0ff1cee1e4a3635c",
     "commitName": "feat: creacion de la funcion fizzbuzz que pasa la primera prueba",
     "commitTimestamp": 1787838121944,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1787838241854,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: creacion de una nueva prueba",
+    "commitTimestamp": 1787838267551,
+    "testId": 3
   }
 ]
