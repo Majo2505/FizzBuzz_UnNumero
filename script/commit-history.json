@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "46db0b8799229ce03d2322deefb1ee2f8ff28ea7",
     "author": "Your Name",
     "commit": {
       "date": "2026-08-27T13:39:00.000Z",
       "message": "feat:creacion de la primera prueba para fizzbuzz",
-      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/46db0b8799229ce03d2322deefb1ee2f8ff28ea7"
     },
     "stats": {
       "total": 9,
@@ -36,5 +36,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2026-08-27T13:42:00.000Z",
+      "message": "feat: creacion de la funcion fizzbuzz que pasa la primera prueba",
+      "url": "https://github.com/Majo2505/FizzBuzz_UnNumero/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

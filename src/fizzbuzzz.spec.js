@@ -1,4 +1,4 @@
-
+import fizzBuzz from "./fizzbuzz.js";
 
 describe("FizzBuzz", () => {
   it("deberia generar el mismo número si no sigue una regla", () => {

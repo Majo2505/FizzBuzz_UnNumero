@@ -30,9 +30,39 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "46db0b8799229ce03d2322deefb1ee2f8ff28ea7",
     "commitName": "feat:creacion de la primera prueba para fizzbuzz",
     "commitTimestamp": 1787837942093,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1787838022754,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787838075689,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1787838091711,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: creacion de la funcion fizzbuzz que pasa la primera prueba",
+    "commitTimestamp": 1787838121944,
+    "testId": 2
   }
 ]
